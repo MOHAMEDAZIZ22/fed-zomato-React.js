@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+}
+
+.App-header {
+    justify-content: space-between;
+    display: flex;
+}
+
+.App {
+    margin: auto;
+}
